@@ -1,0 +1,14 @@
+Tasks
+
+1. PythonNotes/requests_lxml_pandas/
+      load earthquake.csv into sqlite Db name as 'earthquake.db'(1 table)
+
+2. Multiple of 3,6,9 from 1 to 100
+        hint-list comprehension
+            - dict
+             [3,6,9,12,.....]
+
+
+3. earthquake.csv = do some kind of analysis
+
+4. display and plot even numbers between 2 and 200.
