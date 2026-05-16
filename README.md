@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dipesh
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=dipeshdc&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🚀 About Me
 
